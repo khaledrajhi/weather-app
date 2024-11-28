@@ -1,0 +1,32 @@
+body{
+background-image:url(./img1.jpg) ;
+
+}
+#one {
+    text-align: center;
+    color: aliceblue;
+
+}
+
+#two{
+    color: black;
+
+}
+
+
+img{
+    
+
+    height: 100%;
+    width:100% ;
+}
+
+#weather-form{
+text-align: center;
+
+}
+
+#city-input{
+
+    width: 350px;
+}
